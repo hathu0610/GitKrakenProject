@@ -1,7 +1,8 @@
 Garlic Pasta
 
 Menu Class: Main Course
-Author: HT
+
+Author: H.Thu
 
 Servings: 45
 
@@ -40,4 +41,4 @@ Great Wine Pairings
 3. Pinot Grigio
 4. Pinot Noir
 
-Download this recipe from www.thunguyen.com
+Download this recipe from http://www.thunguyen.com
